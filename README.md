@@ -23,6 +23,7 @@
 <h3 align="right"><b>وە شارەزاییم لەمانە هەیە لەبواری باک ئێند</b></h3>
 
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP&logoColor=5466b8&labelColor=ffffff)
+![PYTHON](https://img.shields.io/badge/-Python-000000?style=flat&logo=Python&logoColor=ffffff&labelColor=0065ff)
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON&logoColor=000000&labelColor=ffffff)
 ![NPM](https://img.shields.io/badge/-npm-000000?style=flat&logo=npm&labelColor=ffffff)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL&labelColor=ffffff)
