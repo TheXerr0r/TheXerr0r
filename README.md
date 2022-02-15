@@ -2,7 +2,7 @@
 
 <a href="https://fb.com/codenashwan" target="blank"><img src="https://cdn.iconscout.com/icon/free/png-128/facebook-224-498412.png" height="22" width="22" /></a>
 <a href="https://wa.me/+9647504103583" target="blank"><img src="https://cdn.iconscout.com/icon/free/png-256/whatsapp-43-189795.png" height="22" width="22" /></a>
-<a href="https://wa.me/+9647504103583" target="blank"><img src="https://www.pngkey.com/png/full/131-1312432_website-logo-png-transparent-background-image-black-logo.png" height="22" width="22" /></a>
+<a href="https://efma.tech" target="blank"><img src="https://www.pngkey.com/png/full/131-1312432_website-logo-png-transparent-background-image-black-logo.png" height="22" width="22" /></a>
 
 <h3 align="right"><b>بۆ هەردوو بواری پڕۆگرامینگ و وێب دێڤڵۆپمێنت بۆ بەشی فڕۆنت ئێند شارەزای ئەم تەکنەلۆژیایانەی خوارەوەم</b></h3>
 
