@@ -28,4 +28,4 @@
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=ffffff&labelColor=118CC8)
 ![composer](https://img.shields.io/badge/-composer-000000?style=flat&logo=composer&logoColor=ffffff&labelColor=7C5235)
 ![SQLServer](https://img.shields.io/badge/-XML-000000?style=flat&logo=microsoft&logoColor=ffffff&labelColor=0065ff)
-
+![Bash Script](https://img.shields.io/badge/-Bash%20Script-000000?style=flat&logo=linux&logoColor=ffffff&labelColor=0065ff)
