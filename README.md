@@ -17,7 +17,7 @@ Developer | Security Researcher | Programmer | Graphic Designer
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6)
-![SCSS](https://img.shields.io/badge/-SCSS-000000?style=flat&logo=scss3&logoColor=ffffff&labelColor=1572B6)
+![SCSS](https://img.shields.io/badge/-SCSS-000000?style=flat&lable=SCSS&logoColor=ffffff&labelColor=1572B6)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C)
 ![Font Awesome](https://img.shields.io/badge/-font%20awesome-000000?style=flat&logo=font-awesome&logoColor=339AF0&labelColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
