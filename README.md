@@ -1,4 +1,4 @@
-### Connect with me:
+### CONTACT ME:
 
 <a href="https://efma.tech" target="_blank"><img src="https://www.pngkey.com/png/full/131-1312432_website-logo-png-transparent-background-image-black-logo.png" height="22" width="22" /></a>
 <a href="https://fb.com/CyberBite.Conf" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-128/facebook-224-498412.png" height="22" width="22" /></a>
