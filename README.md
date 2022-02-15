@@ -23,12 +23,12 @@
 <h3 align="right"><b>وە شارەزاییم لەمانە هەیە لەبواری باک ئێند</b></h3>
 
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP&logoColor=5466b8&labelColor=ffffff)
+![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel&logoColor=ffffff&labelColor=FF2D20)
 ![PYTHON](https://img.shields.io/badge/-Python-000000?style=flat&logo=Python&logoColor=ffffff&labelColor=0065ff)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=ffffff&labelColor=118CC8)
+![Bash Script](https://img.shields.io/badge/-Bash%20Script-000000?style=flat&logo=linux&logoColor=ffffff&labelColor=0065ff)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL&labelColor=ffffff)
+![SQLServer](https://img.shields.io/badge/-SQL%20Server-000000?style=flat&logo=microsoft&logoColor=ffffff&labelColor=0065ff)
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON&logoColor=000000&labelColor=ffffff)
 ![NPM](https://img.shields.io/badge/-npm-000000?style=flat&logo=npm&labelColor=ffffff)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL&labelColor=ffffff)
-![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel&logoColor=ffffff&labelColor=FF2D20)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=ffffff&labelColor=118CC8)
 ![composer](https://img.shields.io/badge/-composer-000000?style=flat&logo=composer&logoColor=ffffff&labelColor=7C5235)
-![SQLServer](https://img.shields.io/badge/-SQL%20Server-000000?style=flat&logo=microsoft&logoColor=ffffff&labelColor=0065ff)
-![Bash Script](https://img.shields.io/badge/-Bash%20Script-000000?style=flat&logo=linux&logoColor=ffffff&labelColor=0065ff)
