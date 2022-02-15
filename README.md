@@ -6,7 +6,7 @@
 <a href="https://t.me/TheXerr0r" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" height="22" width="22" /></a>
 <a href="https://www.linkedin.com/in/ehs4nnn/" target="_blank"><img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" height="22" width="22" /></a>
 <a href="https://twitter.com/ehs4nnn" target="_blank"><img src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png" height="22" width="22" /></a>
-<a href="https://www.youtube.com/c/TheXerr0r" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/502px-Logo_of_YouTube_%282015-2017%29.svg.png" height="22" width="32" /></a>
+<a href="https://www.youtube.com/c/TheXerr0r" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/502px-Logo_of_YouTube_%282015-2017%29.svg.png" height="22" width="36" /></a>
 <a href="https://www.instagram.com/___ehs4nnn/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" height="22" width="22" /></a>
 
 
