@@ -1,23 +1,3 @@
-
-<p align="center"> 
-  <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="400" />
-</p>
-
-<div align="center"> 
- 
-[![trophy](https://github-profile-trophy.vercel.app/?username=codenashwan)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-<h3 align="center">سڵاو 👋, من نەشوان عبدللە</h1>
-<h3 align="center" dir="rtl">Full Stack Developer  😜</h3>
-
-<h5 align="right"><b>من لە <a href="https://www.youtube.com/rstacode">یوتوب</a> فێرکارییەکانم دادەنێم 🎬</b></h3>
-<h5 align="right"><b>لە ئێستەدا کار لەسەر فلاتەر و لاراڤێل ئەکەم 🌱</b></h3>
-<h5 align="right"><b>وە حەزیشم لە چایە ☕</b></h3>
-<h5 align="right"><b>وە ڕۆژانەش ٨ کاتژمێر خەریکی کۆدم 💻</b></h3>
-<h5 align="right"><b>وە ئەگەر ئەتەوێت کارت بۆ بکەم پەیوەندیم پێوە بکە 💻</b></h3>
-
-
 ### Connect with me:
 
 <a href="https://fb.com/codenashwan" target="blank"><img src="https://cdn.iconscout.com/icon/free/png-128/facebook-224-498412.png" height="22" width="22" /></a>
@@ -29,7 +9,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) 
 ![Font Awesome](https://img.shields.io/badge/-font%20awesome-000000?style=flat&logo=font-awesome&logoColor=339AF0&labelColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![Ajax](https://img.shields.io/badge/-angular-000000?style=flat&logo=angular&logoColor=ff0000&labelColor=ffffff)
+![Ajax](https://img.shields.io/badge/-Ajax-000000?style=flat&logo=ajax&logoColor=ff0000&labelColor=ffffff)
 ![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD&labelColor=ffffff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C)
 ![Material-UI](https://img.shields.io/badge/-Material%20UI-000000?style=flat&logo=Material%20UI&logoColor=ffffff&labelColor=0081CB)
