@@ -26,6 +26,7 @@
 ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel&logoColor=ffffff&labelColor=FF2D20)
 ![PYTHON](https://img.shields.io/badge/-Python-000000?style=flat&logo=Python&logoColor=ffffff&labelColor=0065ff)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=ffffff&labelColor=118CC8)
+![Java](https://img.shields.io/badge/-Android%20Studio-000000?style=flat&logo=Android&logoColor=ffffff&labelColor=00f204)
 ![Bash Script](https://img.shields.io/badge/-Bash%20Script-000000?style=flat&logo=linux&logoColor=ffffff&labelColor=0065ff)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL&labelColor=ffffff)
 ![SQLServer](https://img.shields.io/badge/-SQL%20Server-000000?style=flat&logo=microsoft&logoColor=ffffff&labelColor=0065ff)
