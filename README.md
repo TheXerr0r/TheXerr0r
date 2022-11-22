@@ -30,6 +30,7 @@ Full-Stack Developer | Security Researcher
 
 
 <h3><b>Programming Languages</b></h3>
+
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP&logoColor=5466b8&labelColor=ffffff)
 ![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=dart&logoColor=38BDF8&labelColor=0B1121)
 ![PYTHON](https://img.shields.io/badge/-Python-000000?style=flat&logo=Python&logoColor=ffffff&labelColor=0065ff)
@@ -39,6 +40,7 @@ Full-Stack Developer | Security Researcher
 
 
 <h3><b>Tools & Frameworks</b></h3>
+
 ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel&logoColor=ffffff&labelColor=FF2D20)
 ![Flutter](https://img.shields.io/badge/-Flutter-blue?logo=flutter&logoColor=2E2E2E&labelColor=ffffff)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL&labelColor=ffffff)
