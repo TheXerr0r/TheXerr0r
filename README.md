@@ -25,7 +25,7 @@ Developer | Security Researcher | Programmer | Graphic Designer
 ![Ajax](https://img.shields.io/badge/-Ajax-000000?style=flat&label=Ajax&logoColor=ff0000&labelColor=ffffff)
 ![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD&labelColor=ffffff)
 ![Alpine.JS](https://img.shields.io/badge/-Alpine.JS-2D3441?style=flat&logo=alpine.js&logoColor=77C1D2&labelColor=2D3441)
-![Material-UI](https://img.shields.io/badge/-Material%20UI-000000?style=flat&logo=Material%20UI&logoColor=ffffff&labelColor=0081CB)
+![Material-UI](https://img.shields.io/badge/-Material%20UI-000000?style=flat&logo=MUI&logoColor=ffffff&labelColor=0081CB)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-000000?style=flat&logo=React&logoColor=ffffff&labelColor=458BFF)
 
 
