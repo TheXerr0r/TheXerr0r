@@ -19,13 +19,14 @@ Developer | Security Researcher | Programmer | Graphic Designer
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6)
 ![SCSS](https://img.shields.io/badge/-SCSS-000000?style=flat&lable=SCSS&logoColor=ffffff&labelColor=1572B6)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000000?style=flat&logo=tailwindcss&logoColor=38BDF8&labelColor=0B1121)
 ![Font Awesome](https://img.shields.io/badge/-font%20awesome-000000?style=flat&logo=font-awesome&logoColor=339AF0&labelColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Ajax](https://img.shields.io/badge/-Ajax-000000?style=flat&label=Ajax&logoColor=ff0000&labelColor=ffffff)
 ![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD&labelColor=ffffff)
+![Alpine.JS](https://img.shields.io/badge/-Alpine.JS-2D3441?style=flat&logo=alpine.js&logoColor=77C1D2&labelColor=2D3441)
 ![Material-UI](https://img.shields.io/badge/-Material%20UI-000000?style=flat&logo=Material%20UI&logoColor=ffffff&labelColor=0081CB)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-000000?style=flat&logo=React&logoColor=ffffff&labelColor=458BFF)
-![XML](https://img.shields.io/badge/-XML-000000?style=flat&label=%3C/%3E&logoColor=ffffff&labelColor=F79500)
 
 
 <h3><b>Web Back-End</b></h3>
@@ -46,6 +47,7 @@ Developer | Security Researcher | Programmer | Graphic Designer
 ![Flutter](https://img.shields.io/badge/-Flutter-blue?logo=flutter&logoColor=2E2E2E&labelColor=ffffff)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=ffffff&labelColor=118CC8)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-000000?style=flat&logo=Android&logoColor=ffffff&labelColor=00f204)
+![XML](https://img.shields.io/badge/-XML-000000?style=flat&label=%3C/%3E&logoColor=ffffff&labelColor=F79500)
   
 # TOTAL PROFILE VISITOR
 ![img](https://profile-counter.glitch.me/TheXerr0rGithubPage/count.svg)
