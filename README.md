@@ -13,7 +13,7 @@ Developer | Security Researcher | Programmer | Graphic Designer
 <a href="https://www.instagram.com/___ehs4nnn/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" height="22" width="22" /></a>
 
 
-<h3 align="right"><b>بۆ هەردوو بواری پڕۆگرامینگ و وێب دێڤڵۆپمێنت بۆ بەشی فڕۆنت ئێند شارەزای ئەم تەکنەلۆژیایانەی خوارەوەم</b></h3>
+<h3><b>Web Front-End</b></h3>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6)
@@ -28,7 +28,7 @@ Developer | Security Researcher | Programmer | Graphic Designer
 ![XML](https://img.shields.io/badge/-XML-000000?style=flat&label=%3C/%3E&logoColor=ffffff&labelColor=F79500)
 
 
-<h3 align="right"><b>وە شارەزاییم لەمانە هەیە لەبواری باک ئێند</b></h3>
+<h3><b>Web Back-End</b></h3>
 
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP&logoColor=5466b8&labelColor=ffffff)
 ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel&logoColor=ffffff&labelColor=FF2D20)
