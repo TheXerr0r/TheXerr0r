@@ -49,6 +49,9 @@ Full-Stack Developer | Security Researcher
 ![composer](https://img.shields.io/badge/-composer-000000?style=flat&logo=composer&logoColor=ffffff&labelColor=7C5235)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-000000?style=flat&logo=Android&logoColor=ffffff&labelColor=00f204)
 
+
+<p><img src="https://github-readme-stats.vercel.app/api?username=TheXerr0r&show_icons=true&theme=dracula" alt="TheXerr0r" /></p>
   
 # TOTAL PROFILE VISITOR
 ![img](https://profile-counter.glitch.me/TheXerr0rGithubPage/count.svg)
+
