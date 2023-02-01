@@ -1,4 +1,4 @@
-Full-Stack Developer | Security Researcher
+Full-Stack Developer | Mobile Application Programmer | Security Researcher
 
 
 # CONTACT ME:
