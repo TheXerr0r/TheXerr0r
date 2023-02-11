@@ -1,6 +1,5 @@
 Full-Stack Developer | Mobile Application Programmer | Security Researcher
 
-
 # CONTACT ME:
 
 <a href="https://efma.tech" target="_blank"><img src="https://www.pngkey.com/png/full/131-1312432_website-logo-png-transparent-background-image-black-logo.png" height="22" width="22" /></a>
@@ -11,7 +10,6 @@ Full-Stack Developer | Mobile Application Programmer | Security Researcher
 <a href="https://twitter.com/ehs4nnn" target="_blank"><img src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png" height="22" width="22" /></a>
 <a href="https://www.youtube.com/c/TheXerr0r" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/502px-Logo_of_YouTube_%282015-2017%29.svg.png" height="22" width="36" /></a>
 <a href="https://www.instagram.com/efma.tech/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" height="22" width="22" /></a>
-
 
 <h3><b>Front-End Technologies</b></h3>
 
@@ -26,8 +24,8 @@ Full-Stack Developer | Mobile Application Programmer | Security Researcher
 ![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD&labelColor=ffffff)
 ![Alpine.JS](https://img.shields.io/badge/-Alpine.JS-2D3441?style=flat&logo=alpine.js&logoColor=77C1D2&labelColor=2D3441)
 ![Material-UI](https://img.shields.io/badge/-Material%20UI-000000?style=flat&logo=MUI&logoColor=ffffff&labelColor=0081CB)
-![ReactJS](https://img.shields.io/badge/-ReactJS-000000?style=flat&logo=React&logoColor=ffffff&labelColor=458BFF)
-
+![ReactJS](https://img.shields.io/badge/-ReactJS-515151?style=flat&logo=React&logoColor=ffffff&labelColor=61dafb)
+![VueJS](https://img.shields.io/badge/-Vue.JS-515151?style=flat&logo=vue.js&logoColor=ffffff&labelColor=000000)
 
 <h3><b>Programming Languages</b></h3>
 
@@ -37,7 +35,6 @@ Full-Stack Developer | Mobile Application Programmer | Security Researcher
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=ffffff&labelColor=118CC8)
 ![Bash Script](https://img.shields.io/badge/-Bash%20Script-000000?style=flat&logo=linux&logoColor=ffffff&labelColor=0065ff)
 ![XML](https://img.shields.io/badge/-XML-000000?style=flat&label=%3C/%3E&logoColor=ffffff&labelColor=F79500)
-
 
 <h3><b>Tools & Frameworks</b></h3>
 
@@ -49,9 +46,7 @@ Full-Stack Developer | Mobile Application Programmer | Security Researcher
 ![composer](https://img.shields.io/badge/-composer-000000?style=flat&logo=composer&logoColor=ffffff&labelColor=7C5235)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-000000?style=flat&logo=Android&logoColor=ffffff&labelColor=00f204)
 
-
 <p><img src="https://github-readme-stats.vercel.app/api?username=TheXerr0r&show_icons=true&theme=dracula" alt="TheXerr0r" /></p>
   
 # TOTAL PROFILE VISITOR
 ![img](https://profile-counter.glitch.me/TheXerr0rGithubPage/count.svg)
-
