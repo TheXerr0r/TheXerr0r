@@ -74,5 +74,5 @@ Full-Stack Developer | Mobile Application Programmer | Security Researcher
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=TheXerr0r&show_icons=true&theme=dracula" alt="TheXerr0r" /></p>
   
-# TOTAL PROFILE VISITOR
+# TOTAL PROFILE VISITORS
 ![img](https://profile-counter.glitch.me/TheXerr0rGithubPage/count.svg)
