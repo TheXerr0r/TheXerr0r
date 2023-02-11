@@ -30,12 +30,40 @@ Full-Stack Developer | Mobile Application Programmer | Security Researcher
 <h3><b>Back-end Technologies</b></h3>
 
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP&logoColor=5466b8&labelColor=ffffff)
+![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel&logoColor=EF3B2D&labelColor=000000)
+![Livewire](https://img.shields.io/badge/-Livewire-000000?style=flat&logo=Livewire&logoColor=FB70A9&labelColor=000000)
+![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat&logo=Symfony&logoColor=fff&labelColor=000000)
+![Composer](https://img.shields.io/badge/-Composer-000000?style=flat&logo=composer&logoColor=fff&labelColor=000000)
 ![NodeJS](https://img.shields.io/badge/-Node.JS-000000?style=flat&logo=node.js&logoColor=6DA75F&labelColor=000000)
+![ExpressJS](https://img.shields.io/badge/-Express.JS-000000?style=flat&logo=express&logoColor=6DA75F&labelColor=000000)
+![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=json&logoColor=fff&labelColor=000000)
+![NPM](https://img.shields.io/badge/-npm-000000?style=flat&logo=npm&logoColor=fff&labelColor=000000)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&logoColor=fff&labelColor=000000)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=MongoDB&logoColor=459B45&labelColor=000000)
+![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=Firebase&logoColor=FFCB25&labelColor=000000)
+
+<h3><p>Scripts</p></h3>
+
+![WordPress](https://img.shields.io/badge/-WordPress-000000?style=flat&logo=WordPress&logoColor=fff&labelColor=000000)
+![Drupal](https://img.shields.io/badge/-Drupal-000000?style=flat&logo=Drupal&logoColor=fff&labelColor=000000)
+![Joomla](https://img.shields.io/badge/-Joomla-000000?style=flat&logo=Joomla&logoColor=fff&labelColor=000000)
+![Blogger](https://img.shields.io/badge/-Blogger-000000?style=flat&logo=Blogger&logoColor=fff&labelColor=000000)
+![GoogleSite](https://img.shields.io/badge/-Google%20Site-000000?style=flat&logo=Google&logoColor=fff&labelColor=000000)
+
+<h3><p>Web Storages</p></h3>
+
+![AWSS3](https://img.shields.io/badge/-AWS%20S3-000000?style=flat&logo=amazon&logoColor=F56600&labelColor=000000)
+
+<h3><b>Mobile Application Development</b></h3>
+
 ![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=dart&logoColor=38BDF8&labelColor=0B1121)
-![PYTHON](https://img.shields.io/badge/-Python-000000?style=flat&logo=Python&logoColor=ffffff&labelColor=0065ff)
+![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter&logoColor=58C6F8&labelColor=000000)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=ffffff&labelColor=118CC8)
-![Bash Script](https://img.shields.io/badge/-Bash%20Script-000000?style=flat&logo=linux&logoColor=ffffff&labelColor=0065ff)
 ![XML](https://img.shields.io/badge/-XML-000000?style=flat&label=%3C/%3E&logoColor=ffffff&labelColor=F79500)
+![PYTHON](https://img.shields.io/badge/-Python-000000?style=flat&logo=Python&logoColor=ffffff&labelColor=0065ff)
+![Bash Script](https://img.shields.io/badge/-Bash%20Script-000000?style=flat&logo=linux&logoColor=ffffff&labelColor=0065ff)
+![AndroidStudio](https://img.shields.io/badge/-Android%20Studio-000000?style=flat&logo=androidstudio&logoColor=43DE8A&labelColor=000000)
+![VSCode](https://img.shields.io/badge/-VS%20Code-000000?style=flat&logo=visualstudio&logoColor=4CB2F3&labelColor=000000)
 
 <h3><b>Tools & Frameworks</b></h3>
 
