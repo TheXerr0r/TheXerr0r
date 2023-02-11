@@ -24,8 +24,8 @@ Full-Stack Developer | Mobile Application Programmer | Security Researcher
 ![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD&labelColor=ffffff)
 ![Alpine.JS](https://img.shields.io/badge/-Alpine.JS-2D3441?style=flat&logo=alpine.js&logoColor=77C1D2&labelColor=2D3441)
 ![Material-UI](https://img.shields.io/badge/-Material%20UI-000000?style=flat&logo=MUI&logoColor=ffffff&labelColor=0081CB)
-![ReactJS](https://img.shields.io/badge/-ReactJS-515151?style=flat&logo=React&logoColor=ffffff&labelColor=61dafb)
-![VueJS](https://img.shields.io/badge/-Vue.JS-515151?style=flat&logo=vue.js&logoColor=ffffff&labelColor=000000)
+![ReactJS](https://img.shields.io/badge/-ReactJS-000000?style=flat&logo=React&logoColor=ffffff&labelColor=61dafb)
+![VueJS](https://img.shields.io/badge/-Vue.JS-000000?style=flat&logo=vue.js&logoColor=ffffff&labelColor=000000)
 
 <h3><b>Programming Languages</b></h3>
 
