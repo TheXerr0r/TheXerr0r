@@ -65,6 +65,13 @@ Full-Stack Developer | Mobile Application Programmer | Security Researcher
 ![AndroidStudio](https://img.shields.io/badge/-Android%20Studio-000000?style=flat&logo=androidstudio&logoColor=43DE8A&labelColor=000000)
 ![VSCode](https://img.shields.io/badge/-VS%20Code-000000?style=flat&logo=visualstudio&logoColor=4CB2F3&labelColor=000000)
 
+<h3><p>General Skills</p></h3>
+
+![AdobePhotoshop](https://img.shields.io/badge/-Adobe%20Photoshop-000000?style=flat&logo=Adobe%20Photoshop&logoColor=2DAAFF&labelColor=000000)
+![AdobeIllustrator](https://img.shields.io/badge/-Adobe%20illustrator-000000?style=flat&logo=Adobe%20illustrator&logoColor=FF9B00&labelColor=000000)
+![AdobeXD](https://img.shields.io/badge/-Adobe%20XD-000000?style=flat&logo=Adobe%20XD&logoColor=FF61F6&labelColor=000000)
+![MSOffice](https://img.shields.io/badge/-Microsoft%20Office-000000?style=flat&logo=Microsoft%20Office&logoColor=EB3C00&labelColor=000000)
+
 <p><img src="https://github-readme-stats.vercel.app/api?username=TheXerr0r&show_icons=true&theme=dracula" alt="TheXerr0r" /></p>
   
 # TOTAL PROFILE VISITOR
