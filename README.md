@@ -65,16 +65,6 @@ Full-Stack Developer | Mobile Application Programmer | Security Researcher
 ![AndroidStudio](https://img.shields.io/badge/-Android%20Studio-000000?style=flat&logo=androidstudio&logoColor=43DE8A&labelColor=000000)
 ![VSCode](https://img.shields.io/badge/-VS%20Code-000000?style=flat&logo=visualstudio&logoColor=4CB2F3&labelColor=000000)
 
-<h3><b>Tools & Frameworks</b></h3>
-
-![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel&logoColor=ffffff&labelColor=FF2D20)
-![Flutter](https://img.shields.io/badge/-Flutter-blue?logo=flutter&logoColor=2E2E2E&labelColor=ffffff)
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL&labelColor=ffffff)
-![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON&logoColor=000000&labelColor=ffffff)
-![NPM](https://img.shields.io/badge/-npm-000000?style=flat&logo=npm&labelColor=ffffff)
-![composer](https://img.shields.io/badge/-composer-000000?style=flat&logo=composer&logoColor=ffffff&labelColor=7C5235)
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-000000?style=flat&logo=Android&logoColor=ffffff&labelColor=00f204)
-
 <p><img src="https://github-readme-stats.vercel.app/api?username=TheXerr0r&show_icons=true&theme=dracula" alt="TheXerr0r" /></p>
   
 # TOTAL PROFILE VISITOR
