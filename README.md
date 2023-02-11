@@ -27,9 +27,10 @@ Full-Stack Developer | Mobile Application Programmer | Security Researcher
 ![ReactJS](https://img.shields.io/badge/-ReactJS-000000?style=flat&logo=React&logoColor=ffffff&labelColor=61dafb)
 ![VueJS](https://img.shields.io/badge/-Vue.JS-000000?style=flat&logo=vue.js&logoColor=ffffff&labelColor=000000)
 
-<h3><b>Programming Languages</b></h3>
+<h3><b>Back-end Technologies</b></h3>
 
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP&logoColor=5466b8&labelColor=ffffff)
+![NodeJS](https://img.shields.io/badge/-Node.JS-000000?style=flat&logo=node.js&logoColor=6DA75F&labelColor=000000)
 ![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=dart&logoColor=38BDF8&labelColor=0B1121)
 ![PYTHON](https://img.shields.io/badge/-Python-000000?style=flat&logo=Python&logoColor=ffffff&labelColor=0065ff)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=ffffff&labelColor=118CC8)
