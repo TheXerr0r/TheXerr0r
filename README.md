@@ -65,6 +65,14 @@ Full-Stack Developer | Mobile Application Programmer | Security Researcher
 ![AndroidStudio](https://img.shields.io/badge/-Android%20Studio-000000?style=flat&logo=androidstudio&logoColor=43DE8A&labelColor=000000)
 ![VSCode](https://img.shields.io/badge/-VS%20Code-000000?style=flat&logo=visualstudio&logoColor=4CB2F3&labelColor=000000)
 
+<h3><p>Operating Systems (OS)</p></h3>
+
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=fff)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![MacOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
 <h3><p>General Skills</p></h3>
 
 ![AdobePhotoshop](https://img.shields.io/badge/-Adobe%20Photoshop-000000?style=flat&logo=Adobe%20Photoshop&logoColor=2DAAFF&labelColor=000000)
